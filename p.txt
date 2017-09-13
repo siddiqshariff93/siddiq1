@@ -1,0 +1,31 @@
+1)admin
+
+
+Login
+Dashboard{
+view questions
+View Faculties
+View students
+View student submit assignments}
+
+
+2) Faculty
+
+registration
+Login
+View profile
+upload assignments
+Send Feed back
+View student submit assignments
+
+
+3) Student
+
+
+registration
+Login
+View Questions
+View Profile
+View Feedback
+
+
